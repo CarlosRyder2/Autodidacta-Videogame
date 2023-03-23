@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{3B80F885-909A-E989-E813-A7CCEDBA6929}</ProjectGuid>
+    <ProjectGuid>{125DCA64-096B-1037-FED1-204921D1F097}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>com.volvocars.public.utility.editor</AssemblyName>
@@ -329,9 +329,6 @@
     <Reference Include="Unity.VisualScripting.YamlDotNet">
       <HintPath>Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll</HintPath>
     </Reference>
-    <Reference Include="EasyRoads3Dv3Editor">
-      <HintPath>Assets\EasyRoads3D\Editor\EasyRoads3Dv3Editor.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.Burst.Cecil.Mdb">
       <HintPath>Library\PackageCache\com.unity.burst@1.8.2\Unity.Burst.CodeGen\Unity.Burst.Cecil.Mdb.dll</HintPath>
     </Reference>
@@ -361,12 +358,6 @@
     </Reference>
     <Reference Include="Newtonsoft.Json">
       <HintPath>Library\PackageCache\com.unity.nuget.newtonsoft-json@3.0.2\Runtime\Newtonsoft.Json.dll</HintPath>
-    </Reference>
-    <Reference Include="EasyRoads3Dv3">
-      <HintPath>Assets\EasyRoads3D\lib\EasyRoads3Dv3.dll</HintPath>
-    </Reference>
-    <Reference Include="DelaunayER">
-      <HintPath>Assets\EasyRoads3D\lib\DelaunayER.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
       <HintPath>Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
@@ -761,11 +752,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="com.volvocars.public.utility.csproj">
-      <Project>{A749C7A1-03C5-FDD2-E77E-FEFC84AA2179}</Project>
+      <Project>{04BD96AE-416F-75E9-6DF4-CCC4438D456B}</Project>
       <Name>com.volvocars.public.utility</Name>
     </ProjectReference>
     <ProjectReference Include="com.volvocars.public.vehicle_fundamentals.csproj">
-      <Project>{FFD14311-7C74-0B79-FAE2-8F72CBFB4462}</Project>
+      <Project>{4607D3DC-9E31-FB10-F9CA-B98EAE81DE61}</Project>
       <Name>com.volvocars.public.vehicle_fundamentals</Name>
     </ProjectReference>
   </ItemGroup>

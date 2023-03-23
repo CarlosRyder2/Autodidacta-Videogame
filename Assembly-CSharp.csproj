@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{E20EC464-2678-2437-2688-231BBF1AB0B1}</ProjectGuid>
+    <ProjectGuid>{1A90CF35-C98E-7156-F939-17B3FAB0705B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -917,23 +917,23 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="com.volvocars.public.vehicle_fundamentals.csproj">
-      <Project>{FFD14311-7C74-0B79-FAE2-8F72CBFB4462}</Project>
+      <Project>{4607D3DC-9E31-FB10-F9CA-B98EAE81DE61}</Project>
       <Name>com.volvocars.public.vehicle_fundamentals</Name>
     </ProjectReference>
     <ProjectReference Include="RoadArchitect.csproj">
-      <Project>{3AEB5BF9-BC0D-62BE-B7EA-4AE1BC081482}</Project>
+      <Project>{7A2E4EB5-E5FF-3BF6-A89D-EFE849536AC8}</Project>
       <Name>RoadArchitect</Name>
     </ProjectReference>
     <ProjectReference Include="com.volvocars.public.utility.editor.csproj">
-      <Project>{3B80F885-909A-E989-E813-A7CCEDBA6929}</Project>
+      <Project>{125DCA64-096B-1037-FED1-204921D1F097}</Project>
       <Name>com.volvocars.public.utility.editor</Name>
     </ProjectReference>
     <ProjectReference Include="com.volvocars.public.vehicle_fundamentals.editor.csproj">
-      <Project>{87DFA90E-3B12-53E2-A71E-1CA78687FA0C}</Project>
+      <Project>{D742A211-DDE5-C759-4D02-ABF01EA6C466}</Project>
       <Name>com.volvocars.public.vehicle_fundamentals.editor</Name>
     </ProjectReference>
     <ProjectReference Include="com.volvocars.public.utility.csproj">
-      <Project>{A749C7A1-03C5-FDD2-E77E-FEFC84AA2179}</Project>
+      <Project>{04BD96AE-416F-75E9-6DF4-CCC4438D456B}</Project>
       <Name>com.volvocars.public.utility</Name>
     </ProjectReference>
   </ItemGroup>
