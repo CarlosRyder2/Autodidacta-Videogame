@@ -1,0 +1,296 @@
+fileFormatVersion: 2
+guid: e647b5d45a4c04d46bdbc4fd4da9c124
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BackColor
+    second: {fileID: 2100000, guid: 7ad724be81fbe644299db806556b1ff2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concrete_Form_4x8
+    second: {fileID: 2100000, guid: 4d44f50e4fa28194db72a6a6a745004f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Entrada
+    second: {fileID: 2100000, guid: 48608b4d2e62d4d46949791498c43526, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Entrada1
+    second: {fileID: 2100000, guid: bbf0709a58d454f45909f4f8987d3371, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Entrada2
+    second: {fileID: 2100000, guid: 85f8bb69d74820f4b8eed13cb4bd4fc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontColor
+    second: {fileID: 2100000, guid: 51dcdb0896228db46b3b6081af100420, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Google_Earth_Snapshot
+    second: {fileID: 2100000, guid: 8a174cb026d31c64b94d29036bcb3e27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sketchy_Lines_Wavy_Vertical
+    second: {fileID: 2100000, guid: 414f2674aa64fd54c827b67026dc35a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: estacionsantalibrada1_copia
+    second: {fileID: 2100000, guid: ddb2e46e0f18c4145a080feb8c67cd61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mio_portal
+    second: {fileID: 2100000, guid: 840af341fb7de444b9e578e76b220e95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mio_portal1
+    second: {fileID: 2100000, guid: 2a850a8593b46a84a8c693fb37cb1638, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mio_portal10
+    second: {fileID: 2100000, guid: e5026dd236673f547b3e48a1bbab8e5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mio_portal11
+    second: {fileID: 2100000, guid: bfc2b8ec7b2c0b8418029a711f84c4c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mio_portal12
+    second: {fileID: 2100000, guid: f11fff96d6dc0af46ad6453622e6b4d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mio_portal13
+    second: {fileID: 2100000, guid: 26fe0eac94ab83547a9d7aaaf04e35f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mio_portal14
+    second: {fileID: 2100000, guid: e28fd80d3f8928a4f9f4ce47749005dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mio_portal15
+    second: {fileID: 2100000, guid: 60c31799ea79b6f4fabee1bfa57bd232, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mio_portal16
+    second: {fileID: 2100000, guid: f3fa7b57dcf575e47808a70e0389314c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mio_portal17
+    second: {fileID: 2100000, guid: 1ccfb0a2bb831dd408ee916004b90ec6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mio_portal18
+    second: {fileID: 2100000, guid: ceb84b806efad834f8b19da5c3b28d20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mio_portal19
+    second: {fileID: 2100000, guid: 548d10ce1b2e245488c20a3ac52a2fa9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mio_portal2
+    second: {fileID: 2100000, guid: b89625145b88ed14794a9e2880b8cc43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mio_portal20
+    second: {fileID: 2100000, guid: 35e9fbfa2395a7f4c8f34ee47120d4d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mio_portal21
+    second: {fileID: 2100000, guid: 6e497cce036e86941a14ff360cfdef5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mio_portal22
+    second: {fileID: 2100000, guid: 20d0f481a1e1ccc48b6ef0c775c6496d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mio_portal23
+    second: {fileID: 2100000, guid: 64b227747e6a41a4bb3451546c5764f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mio_portal24
+    second: {fileID: 2100000, guid: 194d292d9426a3c42a05f79029ee15ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mio_portal25
+    second: {fileID: 2100000, guid: 6680b0ceca2fc5647a7c5557a89ae3a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mio_portal26
+    second: {fileID: 2100000, guid: 9a22e3d9019dca44c9265a6dad6a9303, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mio_portal27
+    second: {fileID: 2100000, guid: b650aeb5e6aed674abed67da6a77e744, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mio_portal28
+    second: {fileID: 2100000, guid: 1cd2093fa94b1f6479537095655123f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mio_portal3
+    second: {fileID: 2100000, guid: 737ebd78e51b24545aee09bca7c5ea28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mio_portal4
+    second: {fileID: 2100000, guid: 434a48f85ef6bb749af78a9341136703, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mio_portal5
+    second: {fileID: 2100000, guid: 1b1dfe76e4819d74ba644031db69e318, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mio_portal6
+    second: {fileID: 2100000, guid: f4685ef2797115941b391a9c67ea4607, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mio_portal7
+    second: {fileID: 2100000, guid: ffa673f63b033dd4a9ff75c720d50143, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mio_portal8
+    second: {fileID: 2100000, guid: 165ac21142d20644788a36c7c2c11f23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mio_portal9
+    second: {fileID: 2100000, guid: 8d6ca6f482ebee144b9c452fb50d6f50, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
