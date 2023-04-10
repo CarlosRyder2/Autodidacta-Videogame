@@ -44,6 +44,7 @@ public class SetCameraInsideOutsideData : MonoBehaviour
         if (changeValue) {
             cameraIsInsideCar.Value = false;
         }
+
     }
     //void Update()
     //{

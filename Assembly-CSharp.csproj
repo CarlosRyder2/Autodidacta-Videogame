@@ -68,11 +68,11 @@
     <Compile Include="Assets\Scripts\Utils\ActivationOnStart.cs" />
     <Compile Include="Assets\Scripts\Grid\LayerImpl.cs" />
     <Compile Include="Assets\ProceduralRoadTool\Runtime\BoxColliderExclusionZone.cs" />
-    <Compile Include="Assets\FirstPerson.cs" />
     <Compile Include="Assets\Scripts\PhysicalMaterials\PhysicalProperties\PhysicalVFXInfo.cs" />
     <Compile Include="Assets\Scripts\Physics\SleepOnStart.cs" />
     <Compile Include="Assets\ProceduralRoadTool\Runtime\Shape.cs" />
     <Compile Include="Assets\Scripts\Vehicle\WheelsCollidingPhysicalMaterialsUpdater.cs" />
+    <Compile Include="Assets\Scripts\FirsPerson\LookAround.cs" />
     <Compile Include="Assets\Scripts\Vehicle\TireSmokePhysicalMaterialResponse.cs" />
     <Compile Include="Assets\Scripts\Utils\QualityBasedComponentDisabling.cs" />
     <Compile Include="Assets\Scripts\Terrain\Runtime\Splatmap\SplatmapPainter.cs" />
