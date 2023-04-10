@@ -1,0 +1,61 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Color_D01
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.749020 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl M_0136_Charcoal
+Ka 0.000000 0.000000 0.000000
+Kd 0.137255 0.137255 0.137255
+Ks 0.330000 0.330000 0.330000
+
+newmtl Wood_Cherry_Original
+Ka 0.000000 0.000000 0.000000
+Kd 0.372549 0.211765 0.101961
+Ks 0.330000 0.330000 0.330000
+map_Kd esquin/Wood_Cherry_Original.jpg
+
+newmtl pied
+Ka 0.000000 0.000000 0.000000
+Kd 0.301961 0.282353 0.235294
+Ks 0.330000 0.330000 0.330000
+map_Kd esquin/pied.jpg
+
+newmtl fach
+Ka 0.000000 0.000000 0.000000
+Kd 0.392157 0.376471 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd esquin/fach.jpg
+
+newmtl fach1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.392157 0.376471 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd esquin/fach1_.jpg
+
+newmtl Google_Earth_Snapshot
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.388235 0.337255
+Ks 0.330000 0.330000 0.330000
+map_Kd esquin/Google_Earth_Snapshot.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.890196 0.882353 0.870588
+Ks 0.330000 0.330000 0.330000
+
+newmtl fach2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.392157 0.376471 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd esquin/fach2_.jpg
+
+newmtl fach3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.392157 0.376471 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd esquin/fach3_.jpg
+

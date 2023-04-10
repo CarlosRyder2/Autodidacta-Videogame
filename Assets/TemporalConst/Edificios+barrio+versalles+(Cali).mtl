@@ -1,0 +1,206 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl M_14
+Ka 0.000000 0.000000 0.000000
+Kd 0.560784 0.435294 0.364706
+Ks 0.330000 0.330000 0.330000
+map_Kd Edificios+barrio+versalles+(Cali)/M_14.jpg
+
+newmtl Metal_Seamed
+Ka 0.000000 0.000000 0.000000
+Kd 0.462745 0.466667 0.450980
+Ks 0.330000 0.330000 0.330000
+map_Kd Edificios+barrio+versalles+(Cali)/Metal_Seamed.jpg
+
+newmtl Google_Earth_Snapshot1
+Ka 0.000000 0.000000 0.000000
+Kd 0.349020 0.349020 0.349020
+Ks 0.330000 0.330000 0.330000
+map_Kd Edificios+barrio+versalles+(Cali)/Google_Earth_Snapshot1.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl M_16
+Ka 0.000000 0.000000 0.000000
+Kd 0.533333 0.447059 0.396078
+Ks 0.330000 0.330000 0.330000
+map_Kd Edificios+barrio+versalles+(Cali)/M_16.jpg
+
+newmtl M_15
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.352941 0.301961
+Ks 0.330000 0.330000 0.330000
+map_Kd Edificios+barrio+versalles+(Cali)/M_15.jpg
+
+newmtl Google_Earth_Snapshot1_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.349020 0.349020 0.349020
+Ks 0.330000 0.330000 0.330000
+map_Kd Edificios+barrio+versalles+(Cali)/Google_Earth_Snapshot1_1_.jpg
+
+newmtl Google_Earth_Snapshot1_2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.349020 0.349020 0.349020
+Ks 0.330000 0.330000 0.330000
+map_Kd Edificios+barrio+versalles+(Cali)/Google_Earth_Snapshot1_2_.jpg
+
+newmtl Google_Earth_Snapshot1_3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.349020 0.349020 0.349020
+Ks 0.330000 0.330000 0.330000
+map_Kd Edificios+barrio+versalles+(Cali)/Google_Earth_Snapshot1_3_.jpg
+
+newmtl Google_Earth_Snapshot
+Ka 0.000000 0.000000 0.000000
+Kd 0.368627 0.325490 0.349020
+Ks 0.330000 0.330000 0.330000
+map_Kd Edificios+barrio+versalles+(Cali)/Google_Earth_Snapshot.jpg
+
+newmtl Google_Earth_Snapshot1_4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.349020 0.349020 0.349020
+Ks 0.330000 0.330000 0.330000
+map_Kd Edificios+barrio+versalles+(Cali)/Google_Earth_Snapshot1_4_.jpg
+
+newmtl Google_Earth_Snapshot1_5_
+Ka 0.000000 0.000000 0.000000
+Kd 0.349020 0.349020 0.349020
+Ks 0.330000 0.330000 0.330000
+map_Kd Edificios+barrio+versalles+(Cali)/Google_Earth_Snapshot1_5_.jpg
+
+newmtl Google_Earth_Snapshot1_6_
+Ka 0.000000 0.000000 0.000000
+Kd 0.349020 0.349020 0.349020
+Ks 0.330000 0.330000 0.330000
+map_Kd Edificios+barrio+versalles+(Cali)/Google_Earth_Snapshot1_6_.jpg
+
+newmtl M_16_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.533333 0.447059 0.396078
+Ks 0.330000 0.330000 0.330000
+map_Kd Edificios+barrio+versalles+(Cali)/M_16_1_.jpg
+
+newmtl Google_Earth_Snapshot1_7_
+Ka 0.000000 0.000000 0.000000
+Kd 0.349020 0.349020 0.349020
+Ks 0.330000 0.330000 0.330000
+map_Kd Edificios+barrio+versalles+(Cali)/Google_Earth_Snapshot1_7_.jpg
+
+newmtl M_16_2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.533333 0.447059 0.396078
+Ks 0.330000 0.330000 0.330000
+map_Kd Edificios+barrio+versalles+(Cali)/M_16_2_.jpg
+
+newmtl Google_Earth_Snapshot1_8_
+Ka 0.000000 0.000000 0.000000
+Kd 0.349020 0.349020 0.349020
+Ks 0.330000 0.330000 0.330000
+map_Kd Edificios+barrio+versalles+(Cali)/Google_Earth_Snapshot1_8_.jpg
+
+newmtl M_16_3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.533333 0.447059 0.396078
+Ks 0.330000 0.330000 0.330000
+map_Kd Edificios+barrio+versalles+(Cali)/M_16_3_.jpg
+
+newmtl Google_Earth_Snapshot1_9_
+Ka 0.000000 0.000000 0.000000
+Kd 0.349020 0.349020 0.349020
+Ks 0.330000 0.330000 0.330000
+map_Kd Edificios+barrio+versalles+(Cali)/Google_Earth_Snapshot1_9_.jpg
+
+newmtl Google_Earth_Snapshot1_10_
+Ka 0.000000 0.000000 0.000000
+Kd 0.349020 0.349020 0.349020
+Ks 0.330000 0.330000 0.330000
+map_Kd Edificios+barrio+versalles+(Cali)/Google_Earth_Snapshot1_10_.jpg
+
+newmtl Metal_Panel
+Ka 0.000000 0.000000 0.000000
+Kd 0.560784 0.615686 0.619608
+Ks 0.330000 0.330000 0.330000
+map_Kd Edificios+barrio+versalles+(Cali)/Metal_Panel.jpg
+
+newmtl Google_Earth_Snapshot1_11_
+Ka 0.000000 0.000000 0.000000
+Kd 0.349020 0.349020 0.349020
+Ks 0.330000 0.330000 0.330000
+map_Kd Edificios+barrio+versalles+(Cali)/Google_Earth_Snapshot1_11_.jpg
+
+newmtl Google_Earth_Snapshot1_12_
+Ka 0.000000 0.000000 0.000000
+Kd 0.349020 0.349020 0.349020
+Ks 0.330000 0.330000 0.330000
+map_Kd Edificios+barrio+versalles+(Cali)/Google_Earth_Snapshot1_12_.jpg
+
+newmtl Google_Earth_Snapshot1_13_
+Ka 0.000000 0.000000 0.000000
+Kd 0.349020 0.349020 0.349020
+Ks 0.330000 0.330000 0.330000
+map_Kd Edificios+barrio+versalles+(Cali)/Google_Earth_Snapshot1_13_.jpg
+
+newmtl Google_Earth_Snapshot1_14_
+Ka 0.000000 0.000000 0.000000
+Kd 0.349020 0.349020 0.349020
+Ks 0.330000 0.330000 0.330000
+map_Kd Edificios+barrio+versalles+(Cali)/Google_Earth_Snapshot1_14_.jpg
+
+newmtl Google_Earth_Snapshot1_15_
+Ka 0.000000 0.000000 0.000000
+Kd 0.349020 0.349020 0.349020
+Ks 0.330000 0.330000 0.330000
+map_Kd Edificios+barrio+versalles+(Cali)/Google_Earth_Snapshot1_15_.jpg
+
+newmtl Sketchy_Lines_Wavy_Vertical
+Ka 0.000000 0.000000 0.000000
+Kd 0.921569 0.921569 0.921569
+Ks 0.330000 0.330000 0.330000
+map_Kd Edificios+barrio+versalles+(Cali)/Sketchy_Lines_Wavy_Vertical.jpg
+
+newmtl Color_000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Google_Earth_Snapshot1_16_
+Ka 0.000000 0.000000 0.000000
+Kd 0.349020 0.349020 0.349020
+Ks 0.330000 0.330000 0.330000
+map_Kd Edificios+barrio+versalles+(Cali)/Google_Earth_Snapshot1_16_.jpg
+
+newmtl Google_Earth_Snapshot1_17_
+Ka 0.000000 0.000000 0.000000
+Kd 0.349020 0.349020 0.349020
+Ks 0.330000 0.330000 0.330000
+map_Kd Edificios+barrio+versalles+(Cali)/Google_Earth_Snapshot1_17_.jpg
+
+newmtl Google_Earth_Snapshot1_18_
+Ka 0.000000 0.000000 0.000000
+Kd 0.349020 0.349020 0.349020
+Ks 0.330000 0.330000 0.330000
+map_Kd Edificios+barrio+versalles+(Cali)/Google_Earth_Snapshot1_18_.jpg
+
+newmtl Google_Earth_Snapshot1_19_
+Ka 0.000000 0.000000 0.000000
+Kd 0.349020 0.349020 0.349020
+Ks 0.330000 0.330000 0.330000
+map_Kd Edificios+barrio+versalles+(Cali)/Google_Earth_Snapshot1_19_.jpg
+
+newmtl Google_Earth_Snapshot1_20_
+Ka 0.000000 0.000000 0.000000
+Kd 0.349020 0.349020 0.349020
+Ks 0.330000 0.330000 0.330000
+map_Kd Edificios+barrio+versalles+(Cali)/Google_Earth_Snapshot1_20_.jpg
+
+newmtl Google_Earth_Snapshot1_21_
+Ka 0.000000 0.000000 0.000000
+Kd 0.349020 0.349020 0.349020
+Ks 0.330000 0.330000 0.330000
+map_Kd Edificios+barrio+versalles+(Cali)/Google_Earth_Snapshot1_21_.jpg
+

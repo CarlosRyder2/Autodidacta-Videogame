@@ -1,0 +1,627 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl M_11577751
+Ka 0.000000 0.000000 0.000000
+Kd 0.729412 0.694118 0.647059
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_11577751.png
+
+newmtl M_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1.jpg
+
+newmtl M_1_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_1_.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl M_1_2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_2_.jpg
+
+newmtl M_1_3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_3_.jpg
+
+newmtl M_1_4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_4_.jpg
+
+newmtl M_1_5_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_5_.jpg
+
+newmtl M_1_6_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_6_.jpg
+
+newmtl M_1_7_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_7_.jpg
+
+newmtl M_1_8_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_8_.jpg
+
+newmtl M_1_9_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_9_.jpg
+
+newmtl M_1_10_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_10_.jpg
+
+newmtl M_1_11_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_11_.jpg
+
+newmtl M_1_12_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_12_.jpg
+
+newmtl M_1_13_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_13_.jpg
+
+newmtl M_1_14_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_14_.jpg
+
+newmtl M_1_15_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_15_.jpg
+
+newmtl M_1_16_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_16_.jpg
+
+newmtl Google_Earth_Snapshot1
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/Google_Earth_Snapshot1.jpg
+
+newmtl M_1_17_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_17_.jpg
+
+newmtl M_1_18_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_18_.jpg
+
+newmtl M_1_19_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_19_.jpg
+
+newmtl M_1_20_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_20_.jpg
+
+newmtl M_1_21_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_21_.jpg
+
+newmtl M_1_22_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_22_.jpg
+
+newmtl M_1_23_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_23_.jpg
+
+newmtl M_1_24_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_24_.jpg
+
+newmtl M_1_25_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_25_.jpg
+
+newmtl M_1_26_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_26_.jpg
+
+newmtl M_1_27_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_27_.jpg
+
+newmtl M_1_28_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_28_.jpg
+
+newmtl M_1_29_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_29_.jpg
+
+newmtl M_1_30_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_30_.jpg
+
+newmtl M_1_31_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_31_.jpg
+
+newmtl M_1_32_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_32_.jpg
+
+newmtl M_1_33_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_33_.jpg
+
+newmtl M_1_34_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_34_.jpg
+
+newmtl M_1_35_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_35_.jpg
+
+newmtl M_1_36_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_36_.jpg
+
+newmtl M_1_37_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_37_.jpg
+
+newmtl M_1_38_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_38_.jpg
+
+newmtl M_1_39_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_39_.jpg
+
+newmtl M_1_40_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_40_.jpg
+
+newmtl M_1_41_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_41_.jpg
+
+newmtl M_1_42_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_42_.jpg
+
+newmtl M_1_43_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_43_.jpg
+
+newmtl M_1_44_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_44_.jpg
+
+newmtl M_1_45_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_45_.jpg
+
+newmtl M_1_46_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_46_.jpg
+
+newmtl M_1_47_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_47_.jpg
+
+newmtl M_1_48_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_48_.jpg
+
+newmtl M_1_49_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_49_.jpg
+
+newmtl M_1_50_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_50_.jpg
+
+newmtl M_1_51_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_51_.jpg
+
+newmtl M_1_52_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_52_.jpg
+
+newmtl M_1_53_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_53_.jpg
+
+newmtl M_1_54_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_54_.jpg
+
+newmtl M_1_55_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_55_.jpg
+
+newmtl M_1_56_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_56_.jpg
+
+newmtl M_1_57_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_57_.jpg
+
+newmtl M_1_58_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_58_.jpg
+
+newmtl M_1_59_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_59_.jpg
+
+newmtl M_1_60_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_60_.jpg
+
+newmtl M_1_61_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_61_.jpg
+
+newmtl M_1_62_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_62_.jpg
+
+newmtl M_1_63_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_63_.jpg
+
+newmtl M_1_64_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_64_.jpg
+
+newmtl M_1_65_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_65_.jpg
+
+newmtl M_1_66_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_66_.jpg
+
+newmtl M_1_67_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_67_.jpg
+
+newmtl M_1_68_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_68_.jpg
+
+newmtl M_1_69_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_69_.jpg
+
+newmtl M_1_70_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_70_.jpg
+
+newmtl M_1_71_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_71_.jpg
+
+newmtl M_1_72_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_72_.jpg
+
+newmtl M_1_73_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_73_.jpg
+
+newmtl M_1_74_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_74_.jpg
+
+newmtl M_1_75_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_75_.jpg
+
+newmtl M_1_76_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_76_.jpg
+
+newmtl M_1_77_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_77_.jpg
+
+newmtl M_1_78_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_78_.jpg
+
+newmtl M_1_79_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_79_.jpg
+
+newmtl M_1_80_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_80_.jpg
+
+newmtl M_1_81_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_81_.jpg
+
+newmtl M_1_82_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_82_.jpg
+
+newmtl M_1_83_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_83_.jpg
+
+newmtl M_1_84_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_84_.jpg
+
+newmtl M_1_85_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_85_.jpg
+
+newmtl M_1_86_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_86_.jpg
+
+newmtl M_1_87_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_87_.jpg
+
+newmtl M_1_88_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_88_.jpg
+
+newmtl M_1_89_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_89_.jpg
+
+newmtl M_1_90_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_90_.jpg
+
+newmtl M_1_91_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_91_.jpg
+
+newmtl M_1_92_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_92_.jpg
+
+newmtl M_1_93_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_93_.jpg
+
+newmtl M_1_94_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_94_.jpg
+
+newmtl M_1_95_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_95_.jpg
+
+newmtl M_1_96_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_96_.jpg
+
+newmtl M_1_97_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_97_.jpg
+
+newmtl M_1_98_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_98_.jpg
+
+newmtl M_1_99_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_99_.jpg
+
+newmtl M_1_100_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.454902 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd asamblea+departamental+del+valle+del+cauca/M_1_100_.jpg
+

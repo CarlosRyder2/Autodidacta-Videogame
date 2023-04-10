@@ -1,0 +1,93 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl M_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.545098 0.525490 0.490196
+Ks 0.330000 0.330000 0.330000
+map_Kd Museo+de+arte+religioso+(Cali)/M_1.jpg
+
+newmtl M_1_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.545098 0.525490 0.490196
+Ks 0.330000 0.330000 0.330000
+map_Kd Museo+de+arte+religioso+(Cali)/M_1_1_.jpg
+
+newmtl M_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.615686 0.584314 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Museo+de+arte+religioso+(Cali)/M_3.jpg
+
+newmtl M_3_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.615686 0.584314 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Museo+de+arte+religioso+(Cali)/M_3_1_.jpg
+
+newmtl M_3_2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.615686 0.584314 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Museo+de+arte+religioso+(Cali)/M_3_2_.jpg
+
+newmtl M_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.537255 0.517647 0.482353
+Ks 0.330000 0.330000 0.330000
+map_Kd Museo+de+arte+religioso+(Cali)/M_2.jpg
+
+newmtl M_3_3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.615686 0.584314 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Museo+de+arte+religioso+(Cali)/M_3_3_.jpg
+
+newmtl Google_Earth_Snapshot
+Ka 0.000000 0.000000 0.000000
+Kd 0.450980 0.423529 0.415686
+Ks 0.330000 0.330000 0.330000
+map_Kd Museo+de+arte+religioso+(Cali)/Google_Earth_Snapshot.jpg
+
+newmtl M_2_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.537255 0.517647 0.482353
+Ks 0.330000 0.330000 0.330000
+map_Kd Museo+de+arte+religioso+(Cali)/M_2_1_.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl M_3_4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.615686 0.584314 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Museo+de+arte+religioso+(Cali)/M_3_4_.jpg
+
+newmtl M_1_2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.545098 0.525490 0.490196
+Ks 0.330000 0.330000 0.330000
+map_Kd Museo+de+arte+religioso+(Cali)/M_1_2_.jpg
+
+newmtl M_1_3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.545098 0.525490 0.490196
+Ks 0.330000 0.330000 0.330000
+map_Kd Museo+de+arte+religioso+(Cali)/M_1_3_.jpg
+
+newmtl M_3_5_
+Ka 0.000000 0.000000 0.000000
+Kd 0.615686 0.584314 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Museo+de+arte+religioso+(Cali)/M_3_5_.jpg
+
+newmtl M_3_6_
+Ka 0.000000 0.000000 0.000000
+Kd 0.615686 0.584314 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Museo+de+arte+religioso+(Cali)/M_3_6_.jpg
+

@@ -1,0 +1,79 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl khokytohky
+Ka 0.000000 0.000000 0.000000
+Kd 0.392157 0.396078 0.403922
+Ks 0.330000 0.330000 0.330000
+map_Kd hotel+intercontinental+(cali)/khokytohky.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.882353 0.882353 0.784314
+Ks 0.330000 0.330000 0.330000
+
+newmtl aes1
+Ka 0.000000 0.000000 0.000000
+Kd 0.568627 0.545098 0.505882
+Ks 0.330000 0.330000 0.330000
+map_Kd hotel+intercontinental+(cali)/aes1.jpg
+
+newmtl inter
+Ka 0.000000 0.000000 0.000000
+Kd 0.776471 0.733333 0.658824
+Ks 0.330000 0.330000 0.330000
+map_Kd hotel+intercontinental+(cali)/inter.jpg
+
+newmtl iny
+Ka 0.000000 0.000000 0.000000
+Kd 0.862745 0.741176 0.556863
+Ks 0.330000 0.330000 0.330000
+map_Kd hotel+intercontinental+(cali)/iny.jpg
+
+newmtl int
+Ka 0.000000 0.000000 0.000000
+Kd 0.572549 0.466667 0.254902
+Ks 0.330000 0.330000 0.330000
+map_Kd hotel+intercontinental+(cali)/int.jpg
+
+newmtl Color_001
+Ka 0.000000 0.000000 0.000000
+Kd 0.623529 0.580392 0.513725
+Ks 0.330000 0.330000 0.330000
+
+newmtl M_1__41_
+Ka 0.000000 0.000000 0.000000
+Kd 0.584314 0.580392 0.572549
+Ks 0.330000 0.330000 0.330000
+map_Kd hotel+intercontinental+(cali)/M_1__41_.jpg
+
+newmtl Color_000
+Ka 0.000000 0.000000 0.000000
+Kd 0.890196 0.831373 0.745098
+Ks 0.330000 0.330000 0.330000
+
+newmtl asdf1
+Ka 0.000000 0.000000 0.000000
+Kd 0.141176 0.117647 0.054902
+Ks 0.330000 0.330000 0.330000
+map_Kd hotel+intercontinental+(cali)/asdf1.jpg
+
+newmtl rhthhth
+Ka 0.000000 0.000000 0.000000
+Kd 0.666667 0.666667 0.662745
+Ks 0.330000 0.330000 0.330000
+map_Kd hotel+intercontinental+(cali)/rhthhth.png
+
+newmtl Fencing_Chain_Link
+Ka 0.000000 0.000000 0.000000
+Kd 0.894118 0.894118 0.894118
+Ks 0.330000 0.330000 0.330000
+map_Kd hotel+intercontinental+(cali)/Fencing_Chain_Link.png
+
+newmtl M_3740437
+Ka 0.000000 0.000000 0.000000
+Kd 0.454902 0.427451 0.403922
+Ks 0.330000 0.330000 0.330000
+map_Kd hotel+intercontinental+(cali)/M_3740437.jpg
+

@@ -1,0 +1,1665 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl M_21
+Ka 0.000000 0.000000 0.000000
+Kd 0.454902 0.454902 0.454902
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_21.jpg
+
+newmtl M_20
+Ka 0.000000 0.000000 0.000000
+Kd 0.564706 0.556863 0.572549
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_20.jpg
+
+newmtl M_20_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.564706 0.556863 0.572549
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_20_1_.jpg
+
+newmtl Google_Earth_Snapshot1
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1.jpg
+
+newmtl M_20_2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.564706 0.556863 0.572549
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_20_2_.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.890196 0.882353 0.870588
+Ks 0.330000 0.330000 0.330000
+
+newmtl M_16
+Ka 0.000000 0.000000 0.000000
+Kd 0.564706 0.556863 0.572549
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_16.jpg
+
+newmtl Google_Earth_Snapshot1_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_1_.jpg
+
+newmtl Google_Earth_Snapshot1_2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_2_.jpg
+
+newmtl Google_Earth_Snapshot1_3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_3_.jpg
+
+newmtl Google_Earth_Snapshot1_4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_4_.jpg
+
+newmtl Google_Earth_Snapshot1_5_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_5_.jpg
+
+newmtl Google_Earth_Snapshot1_6_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_6_.jpg
+
+newmtl Google_Earth_Snapshot1_7_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_7_.jpg
+
+newmtl Google_Earth_Snapshot1_8_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_8_.jpg
+
+newmtl Google_Earth_Snapshot1_9_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_9_.jpg
+
+newmtl Google_Earth_Snapshot1_10_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_10_.jpg
+
+newmtl Google_Earth_Snapshot1_11_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_11_.jpg
+
+newmtl Google_Earth_Snapshot1_12_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_12_.jpg
+
+newmtl Google_Earth_Snapshot1_13_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_13_.jpg
+
+newmtl Google_Earth_Snapshot1_14_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_14_.jpg
+
+newmtl Google_Earth_Snapshot1_15_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_15_.jpg
+
+newmtl Google_Earth_Snapshot1_16_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_16_.jpg
+
+newmtl Google_Earth_Snapshot1_17_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_17_.jpg
+
+newmtl Google_Earth_Snapshot1_18_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_18_.jpg
+
+newmtl Google_Earth_Snapshot1_19_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_19_.jpg
+
+newmtl Google_Earth_Snapshot1_20_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_20_.jpg
+
+newmtl Google_Earth_Snapshot1_21_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_21_.jpg
+
+newmtl Google_Earth_Snapshot1_22_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_22_.jpg
+
+newmtl Google_Earth_Snapshot1_23_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_23_.jpg
+
+newmtl Google_Earth_Snapshot1_24_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_24_.jpg
+
+newmtl Google_Earth_Snapshot1_25_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_25_.jpg
+
+newmtl Google_Earth_Snapshot1_26_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_26_.jpg
+
+newmtl Google_Earth_Snapshot1_27_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_27_.jpg
+
+newmtl Google_Earth_Snapshot1_28_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_28_.jpg
+
+newmtl Google_Earth_Snapshot1_29_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_29_.jpg
+
+newmtl Google_Earth_Snapshot1_30_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_30_.jpg
+
+newmtl Google_Earth_Snapshot1_31_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_31_.jpg
+
+newmtl Google_Earth_Snapshot1_32_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_32_.jpg
+
+newmtl Google_Earth_Snapshot1_33_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_33_.jpg
+
+newmtl Google_Earth_Snapshot1_34_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_34_.jpg
+
+newmtl Google_Earth_Snapshot1_35_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_35_.jpg
+
+newmtl Google_Earth_Snapshot1_36_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_36_.jpg
+
+newmtl Google_Earth_Snapshot1_37_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_37_.jpg
+
+newmtl Google_Earth_Snapshot1_38_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_38_.jpg
+
+newmtl Google_Earth_Snapshot1_39_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_39_.jpg
+
+newmtl Google_Earth_Snapshot1_40_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_40_.jpg
+
+newmtl Google_Earth_Snapshot1_41_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_41_.jpg
+
+newmtl Google_Earth_Snapshot1_42_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_42_.jpg
+
+newmtl Google_Earth_Snapshot1_43_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_43_.jpg
+
+newmtl Google_Earth_Snapshot1_44_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_44_.jpg
+
+newmtl Google_Earth_Snapshot1_45_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_45_.jpg
+
+newmtl Google_Earth_Snapshot1_46_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_46_.jpg
+
+newmtl Google_Earth_Snapshot1_47_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_47_.jpg
+
+newmtl Google_Earth_Snapshot1_48_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_48_.jpg
+
+newmtl Google_Earth_Snapshot1_49_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_49_.jpg
+
+newmtl Google_Earth_Snapshot1_50_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_50_.jpg
+
+newmtl Google_Earth_Snapshot1_51_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_51_.jpg
+
+newmtl M_17
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17.jpg
+
+newmtl M_17_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_1_.jpg
+
+newmtl Google_Earth_Snapshot1_52_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_52_.jpg
+
+newmtl M_17_2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_2_.jpg
+
+newmtl M_22
+Ka 0.000000 0.000000 0.000000
+Kd 0.592157 0.560784 0.564706
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_22.jpg
+
+newmtl M_23
+Ka 0.000000 0.000000 0.000000
+Kd 0.215686 0.211765 0.211765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_23.jpg
+
+newmtl M_17_3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_3_.jpg
+
+newmtl Google_Earth_Snapshot1_53_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_53_.jpg
+
+newmtl Google_Earth_Snapshot1_54_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_54_.jpg
+
+newmtl Google_Earth_Snapshot1_55_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_55_.jpg
+
+newmtl Google_Earth_Snapshot1_56_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_56_.jpg
+
+newmtl Google_Earth_Snapshot1_57_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_57_.jpg
+
+newmtl Google_Earth_Snapshot1_58_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_58_.jpg
+
+newmtl Google_Earth_Snapshot1_59_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_59_.jpg
+
+newmtl M_17_4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_4_.jpg
+
+newmtl Google_Earth_Snapshot1_60_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_60_.jpg
+
+newmtl Google_Earth_Snapshot1_61_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_61_.jpg
+
+newmtl Google_Earth_Snapshot1_62_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_62_.jpg
+
+newmtl Google_Earth_Snapshot1_63_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_63_.jpg
+
+newmtl Google_Earth_Snapshot1_64_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_64_.jpg
+
+newmtl M_17_5_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_5_.jpg
+
+newmtl M_17_6_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_6_.jpg
+
+newmtl M_17_7_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_7_.jpg
+
+newmtl M_17_8_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_8_.jpg
+
+newmtl M_17_9_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_9_.jpg
+
+newmtl M_17_10_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_10_.jpg
+
+newmtl M_17_11_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_11_.jpg
+
+newmtl M_17_12_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_12_.jpg
+
+newmtl M_17_13_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_13_.jpg
+
+newmtl M_17_14_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_14_.jpg
+
+newmtl M_17_15_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_15_.jpg
+
+newmtl M_17_16_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_16_.jpg
+
+newmtl M_17_17_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_17_.jpg
+
+newmtl M_17_18_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_18_.jpg
+
+newmtl M_17_19_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_19_.jpg
+
+newmtl M_17_20_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_20_.jpg
+
+newmtl M_17_21_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_21_.jpg
+
+newmtl M_17_22_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_22_.jpg
+
+newmtl M_17_23_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_23_.jpg
+
+newmtl M_17_24_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_24_.jpg
+
+newmtl M_17_25_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_25_.jpg
+
+newmtl M_17_26_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_26_.jpg
+
+newmtl M_17_27_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_27_.jpg
+
+newmtl M_17_28_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_28_.jpg
+
+newmtl M_17_29_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_29_.jpg
+
+newmtl M_17_30_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_30_.jpg
+
+newmtl M_17_31_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_31_.jpg
+
+newmtl M_17_32_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_32_.jpg
+
+newmtl M_17_33_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_33_.jpg
+
+newmtl M_19
+Ka 0.000000 0.000000 0.000000
+Kd 0.521569 0.509804 0.513725
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_19.jpg
+
+newmtl M_17_34_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_34_.jpg
+
+newmtl M_17_35_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_35_.jpg
+
+newmtl M_17_36_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_36_.jpg
+
+newmtl M_17_37_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_37_.jpg
+
+newmtl M_17_38_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_38_.jpg
+
+newmtl M_17_39_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_39_.jpg
+
+newmtl M_17_40_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_40_.jpg
+
+newmtl M_17_41_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_41_.jpg
+
+newmtl M_17_42_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_42_.jpg
+
+newmtl M_17_43_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_43_.jpg
+
+newmtl M_17_44_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_44_.jpg
+
+newmtl M_17_45_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_45_.jpg
+
+newmtl M_17_46_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_46_.jpg
+
+newmtl M_17_47_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_47_.jpg
+
+newmtl M_17_48_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_48_.jpg
+
+newmtl M_17_49_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_49_.jpg
+
+newmtl M_17_50_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_50_.jpg
+
+newmtl M_17_51_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_51_.jpg
+
+newmtl M_17_52_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_52_.jpg
+
+newmtl Google_Earth_Snapshot
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.380392 0.396078
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot.jpg
+
+newmtl M_17_53_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_53_.jpg
+
+newmtl M_25
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.588235 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_25.jpg
+
+newmtl M_17_54_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_54_.jpg
+
+newmtl M_17_55_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_55_.jpg
+
+newmtl M_17_56_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_56_.jpg
+
+newmtl M_17_57_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_57_.jpg
+
+newmtl M_17_58_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_58_.jpg
+
+newmtl M_17_59_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_59_.jpg
+
+newmtl M_17_60_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_60_.jpg
+
+newmtl M_17_61_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_61_.jpg
+
+newmtl M_17_62_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_62_.jpg
+
+newmtl Google_Earth_Snapshot1_65_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_65_.jpg
+
+newmtl M_17_63_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_63_.jpg
+
+newmtl M_17_64_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_64_.jpg
+
+newmtl M_17_65_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_65_.jpg
+
+newmtl M_17_66_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_66_.jpg
+
+newmtl M_17_67_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_67_.jpg
+
+newmtl M_17_68_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_68_.jpg
+
+newmtl M_17_69_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_69_.jpg
+
+newmtl M_17_70_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_70_.jpg
+
+newmtl M_17_71_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_71_.jpg
+
+newmtl M_17_72_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_72_.jpg
+
+newmtl M_17_73_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_73_.jpg
+
+newmtl M_17_74_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_74_.jpg
+
+newmtl M_17_75_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_75_.jpg
+
+newmtl M_17_76_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_76_.jpg
+
+newmtl M_17_77_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_77_.jpg
+
+newmtl Google_Earth_Snapshot1_66_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_66_.jpg
+
+newmtl M_17_78_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_78_.jpg
+
+newmtl M_17_79_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_79_.jpg
+
+newmtl M_17_80_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_80_.jpg
+
+newmtl M_17_81_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_81_.jpg
+
+newmtl Google_Earth_Snapshot1_67_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_67_.jpg
+
+newmtl M_17_82_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_82_.jpg
+
+newmtl M_17_83_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_83_.jpg
+
+newmtl M_17_84_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_84_.jpg
+
+newmtl Google_Earth_Snapshot1_68_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_68_.jpg
+
+newmtl M_17_85_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_85_.jpg
+
+newmtl M_17_86_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_86_.jpg
+
+newmtl M_17_87_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_87_.jpg
+
+newmtl M_17_88_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_88_.jpg
+
+newmtl M_17_89_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_89_.jpg
+
+newmtl M_17_90_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_90_.jpg
+
+newmtl M_17_91_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_91_.jpg
+
+newmtl M_17_92_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_92_.jpg
+
+newmtl M_17_93_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_93_.jpg
+
+newmtl M_17_94_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_94_.jpg
+
+newmtl M_17_95_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_95_.jpg
+
+newmtl M_17_96_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_96_.jpg
+
+newmtl M_17_97_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_97_.jpg
+
+newmtl M_17_98_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_98_.jpg
+
+newmtl M_17_99_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_99_.jpg
+
+newmtl M_17_100_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_100_.jpg
+
+newmtl M_17_101_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_101_.jpg
+
+newmtl M_17_102_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_102_.jpg
+
+newmtl M_17_103_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_103_.jpg
+
+newmtl M_17_104_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_104_.jpg
+
+newmtl M_17_105_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_105_.jpg
+
+newmtl M_17_106_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_106_.jpg
+
+newmtl M_17_107_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_107_.jpg
+
+newmtl M_17_108_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_108_.jpg
+
+newmtl M_17_109_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_109_.jpg
+
+newmtl Google_Earth_Snapshot1_69_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_69_.jpg
+
+newmtl M_17_110_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_110_.jpg
+
+newmtl M_17_111_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_111_.jpg
+
+newmtl M_17_112_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_112_.jpg
+
+newmtl M_17_113_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_113_.jpg
+
+newmtl M_17_114_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_114_.jpg
+
+newmtl M_17_115_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_115_.jpg
+
+newmtl M_17_116_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_116_.jpg
+
+newmtl M_17_117_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_117_.jpg
+
+newmtl M_17_118_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_118_.jpg
+
+newmtl M_17_119_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_119_.jpg
+
+newmtl M_17_120_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_120_.jpg
+
+newmtl M_17_121_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_121_.jpg
+
+newmtl M_17_122_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_122_.jpg
+
+newmtl M_17_123_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_123_.jpg
+
+newmtl M_17_124_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_124_.jpg
+
+newmtl M_17_125_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_125_.jpg
+
+newmtl M_17_126_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_126_.jpg
+
+newmtl M_17_127_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_127_.jpg
+
+newmtl M_17_128_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_128_.jpg
+
+newmtl M_17_129_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_129_.jpg
+
+newmtl M_17_130_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_130_.jpg
+
+newmtl M_17_131_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_131_.jpg
+
+newmtl M_17_132_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_132_.jpg
+
+newmtl M_17_133_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_133_.jpg
+
+newmtl M_17_134_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_134_.jpg
+
+newmtl M_17_135_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_135_.jpg
+
+newmtl M_17_136_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_136_.jpg
+
+newmtl M_17_137_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_137_.jpg
+
+newmtl M_17_138_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_138_.jpg
+
+newmtl M_17_139_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_139_.jpg
+
+newmtl M_17_140_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_140_.jpg
+
+newmtl M_17_141_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_141_.jpg
+
+newmtl M_17_142_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_142_.jpg
+
+newmtl M_17_143_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_143_.jpg
+
+newmtl M_17_144_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_144_.jpg
+
+newmtl M_17_145_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_145_.jpg
+
+newmtl M_17_146_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_146_.jpg
+
+newmtl M_17_147_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_147_.jpg
+
+newmtl M_17_148_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_148_.jpg
+
+newmtl M_17_149_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_149_.jpg
+
+newmtl M_17_150_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_150_.jpg
+
+newmtl M_17_151_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_151_.jpg
+
+newmtl M_17_152_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_152_.jpg
+
+newmtl M_17_153_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_153_.jpg
+
+newmtl M_17_154_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_154_.jpg
+
+newmtl M_17_155_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_155_.jpg
+
+newmtl M_17_156_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_156_.jpg
+
+newmtl M_17_157_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_157_.jpg
+
+newmtl M_17_158_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_158_.jpg
+
+newmtl M_17_159_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_159_.jpg
+
+newmtl M_17_160_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_160_.jpg
+
+newmtl M_17_161_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_161_.jpg
+
+newmtl M_17_162_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_162_.jpg
+
+newmtl M_17_163_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_163_.jpg
+
+newmtl M_17_164_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_164_.jpg
+
+newmtl M_17_165_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_165_.jpg
+
+newmtl M_17_166_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_166_.jpg
+
+newmtl M_17_167_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_167_.jpg
+
+newmtl M_17_168_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_168_.jpg
+
+newmtl M_17_169_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_169_.jpg
+
+newmtl M_17_170_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_170_.jpg
+
+newmtl M_17_171_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_171_.jpg
+
+newmtl M_17_172_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_172_.jpg
+
+newmtl M_17_173_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_173_.jpg
+
+newmtl M_17_174_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_174_.jpg
+
+newmtl M_17_175_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_175_.jpg
+
+newmtl M_17_176_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_176_.jpg
+
+newmtl M_17_177_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_177_.jpg
+
+newmtl M_17_178_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_178_.jpg
+
+newmtl M_17_179_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_179_.jpg
+
+newmtl M_17_180_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_180_.jpg
+
+newmtl M_17_181_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_181_.jpg
+
+newmtl M_17_182_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_182_.jpg
+
+newmtl M_17_183_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_183_.jpg
+
+newmtl M_17_184_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_184_.jpg
+
+newmtl M_17_185_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_185_.jpg
+
+newmtl M_17_186_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_186_.jpg
+
+newmtl M_17_187_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_187_.jpg
+
+newmtl M_17_188_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_188_.jpg
+
+newmtl M_17_189_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_189_.jpg
+
+newmtl M_17_190_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_190_.jpg
+
+newmtl M_17_191_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_191_.jpg
+
+newmtl M_17_192_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_192_.jpg
+
+newmtl Google_Earth_Snapshot1_70_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_70_.jpg
+
+newmtl M_17_193_
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.596078 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/M_17_193_.jpg
+
+newmtl Google_Earth_Snapshot1_71_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+map_Kd palacioNacional/Google_Earth_Snapshot1_71_.jpg
+

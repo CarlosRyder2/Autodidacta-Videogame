@@ -1,0 +1,169 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Green
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.501961 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Beige_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.827451 0.741176 0.564706
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_B24
+Ka 0.000000 0.000000 0.000000
+Kd 0.200000 0.137255 0.117647
+Ks 0.330000 0.330000 0.330000
+
+newmtl _LightGray_
+Ka 0.000000 0.000000 0.000000
+Kd 0.662745 0.662745 0.662745
+Ks 0.330000 0.330000 0.330000
+
+newmtl M_0135_DarkGray
+Ka 0.000000 0.000000 0.000000
+Kd 0.317647 0.317647 0.317647
+Ks 0.330000 0.330000 0.330000
+
+newmtl M_96_96_96
+Ka 0.000000 0.000000 0.000000
+Kd 0.376471 0.376471 0.376471
+Ks 0.330000 0.330000 0.330000
+
+newmtl jean_blue
+Ka 0.000000 0.000000 0.000000
+Kd 0.141176 0.184314 0.258824
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Charcoal_
+Ka 0.000000 0.000000 0.000000
+Kd 0.137255 0.137255 0.137255
+Ks 0.330000 0.330000 0.330000
+
+newmtl Google_Earth_Snapshot
+Ka 0.000000 0.000000 0.000000
+Kd 0.427451 0.419608 0.423529
+Ks 0.330000 0.330000 0.330000
+map_Kd gobernacion+dl+valle+(cali)/Google_Earth_Snapshot.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl e
+Ka 0.000000 0.000000 0.000000
+Kd 0.588235 0.568627 0.537255
+Ks 0.330000 0.330000 0.330000
+map_Kd gobernacion+dl+valle+(cali)/e.bmp
+
+newmtl M_01
+Ka 0.000000 0.000000 0.000000
+Kd 0.603922 0.588235 0.576471
+Ks 0.330000 0.330000 0.330000
+map_Kd gobernacion+dl+valle+(cali)/M_01.bmp
+
+newmtl M_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.435294 0.431373 0.380392
+Ks 0.330000 0.330000 0.330000
+map_Kd gobernacion+dl+valle+(cali)/M_3.jpg
+
+newmtl ddd
+Ka 0.000000 0.000000 0.000000
+Kd 0.427451 0.419608 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd gobernacion+dl+valle+(cali)/ddd.jpg
+
+newmtl M_01_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.603922 0.588235 0.576471
+Ks 0.330000 0.330000 0.330000
+map_Kd gobernacion+dl+valle+(cali)/M_01_1_.bmp
+
+newmtl ddd1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.427451 0.419608 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd gobernacion+dl+valle+(cali)/ddd1_.jpg
+
+newmtl M_01_2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.603922 0.588235 0.576471
+Ks 0.330000 0.330000 0.330000
+map_Kd gobernacion+dl+valle+(cali)/M_01_2_.bmp
+
+newmtl M_01_3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.603922 0.588235 0.576471
+Ks 0.330000 0.330000 0.330000
+map_Kd gobernacion+dl+valle+(cali)/M_01_3_.bmp
+
+newmtl M_01_4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.603922 0.588235 0.576471
+Ks 0.330000 0.330000 0.330000
+map_Kd gobernacion+dl+valle+(cali)/M_01_4_.bmp
+
+newmtl M_01_5_
+Ka 0.000000 0.000000 0.000000
+Kd 0.603922 0.588235 0.576471
+Ks 0.330000 0.330000 0.330000
+map_Kd gobernacion+dl+valle+(cali)/M_01_5_.bmp
+
+newmtl ddd2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.427451 0.419608 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd gobernacion+dl+valle+(cali)/ddd2_.jpg
+
+newmtl M_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.576471 0.560784 0.509804
+Ks 0.330000 0.330000 0.330000
+map_Kd gobernacion+dl+valle+(cali)/M_1.jpg
+
+newmtl M_01_6_
+Ka 0.000000 0.000000 0.000000
+Kd 0.603922 0.588235 0.576471
+Ks 0.330000 0.330000 0.330000
+map_Kd gobernacion+dl+valle+(cali)/M_01_6_.bmp
+
+newmtl M_01_7_
+Ka 0.000000 0.000000 0.000000
+Kd 0.603922 0.588235 0.576471
+Ks 0.330000 0.330000 0.330000
+map_Kd gobernacion+dl+valle+(cali)/M_01_7_.bmp
+
+newmtl M_01_8_
+Ka 0.000000 0.000000 0.000000
+Kd 0.603922 0.588235 0.576471
+Ks 0.330000 0.330000 0.330000
+map_Kd gobernacion+dl+valle+(cali)/M_01_8_.bmp
+
+newmtl ddd3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.427451 0.419608 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd gobernacion+dl+valle+(cali)/ddd3_.jpg
+
+newmtl M_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.541176 0.525490 0.458824
+Ks 0.330000 0.330000 0.330000
+map_Kd gobernacion+dl+valle+(cali)/M_2.jpg
+
+newmtl ddd4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.427451 0.419608 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd gobernacion+dl+valle+(cali)/ddd4_.jpg
+
+newmtl Stone_Coursed_Rough
+Ka 0.000000 0.000000 0.000000
+Kd 0.388235 0.376471 0.305882
+Ks 0.330000 0.330000 0.330000
+map_Kd gobernacion+dl+valle+(cali)/Stone_Coursed_Rough.jpg
+

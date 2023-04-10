@@ -1,0 +1,175 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl arb
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.623529 0.584314
+Ks 0.330000 0.330000 0.330000
+map_Kd manzana+frente+a+la+ermita+(Cali)/arb.png
+
+newmtl arbol
+Ka 0.000000 0.000000 0.000000
+Kd 0.572549 0.572549 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd manzana+frente+a+la+ermita+(Cali)/arbol.png
+
+newmtl _DarkGoldenrod_
+Ka 0.000000 0.000000 0.000000
+Kd 0.721569 0.525490 0.043137
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Gray6_
+Ka 0.000000 0.000000 0.000000
+Kd 0.376471 0.376471 0.376471
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Beige_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.827451 0.741176 0.564706
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Brown_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.345098 0.211765
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Charcoal_
+Ka 0.000000 0.000000 0.000000
+Kd 0.137255 0.137255 0.137255
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Black_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Redwood_
+Ka 0.000000 0.000000 0.000000
+Kd 0.654902 0.396078 0.321569
+Ks 0.330000 0.330000 0.330000
+
+newmtl jean_blue
+Ka 0.000000 0.000000 0.000000
+Kd 0.141176 0.184314 0.258824
+Ks 0.330000 0.330000 0.330000
+
+newmtl M_11
+Ka 0.000000 0.000000 0.000000
+Kd 0.407843 0.392157 0.321569
+Ks 0.330000 0.330000 0.330000
+map_Kd manzana+frente+a+la+ermita+(Cali)/M_11.jpg
+
+newmtl M_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.450980 0.423529 0.360784
+Ks 0.330000 0.330000 0.330000
+map_Kd manzana+frente+a+la+ermita+(Cali)/M_4.jpg
+
+newmtl M_7
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.466667 0.462745
+Ks 0.330000 0.330000 0.330000
+map_Kd manzana+frente+a+la+ermita+(Cali)/M_7.jpg
+
+newmtl M_5
+Ka 0.000000 0.000000 0.000000
+Kd 0.341176 0.325490 0.313725
+Ks 0.330000 0.330000 0.330000
+map_Kd manzana+frente+a+la+ermita+(Cali)/M_5.jpg
+
+newmtl Google_Earth_Snapshot2
+Ka 0.000000 0.000000 0.000000
+Kd 0.474510 0.474510 0.474510
+Ks 0.330000 0.330000 0.330000
+map_Kd manzana+frente+a+la+ermita+(Cali)/Google_Earth_Snapshot2.jpg
+
+newmtl M_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.294118 0.270588
+Ks 0.330000 0.330000 0.330000
+map_Kd manzana+frente+a+la+ermita+(Cali)/M_2.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl M_6
+Ka 0.000000 0.000000 0.000000
+Kd 0.286275 0.301961 0.313725
+Ks 0.330000 0.330000 0.330000
+map_Kd manzana+frente+a+la+ermita+(Cali)/M_6.jpg
+
+newmtl M_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.349020 0.345098 0.341176
+Ks 0.330000 0.330000 0.330000
+map_Kd manzana+frente+a+la+ermita+(Cali)/M_3.jpg
+
+newmtl Google_Earth_Snapshot2_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.474510 0.474510 0.474510
+Ks 0.330000 0.330000 0.330000
+map_Kd manzana+frente+a+la+ermita+(Cali)/Google_Earth_Snapshot2_1_.jpg
+
+newmtl Google_Earth_Snapshot2_2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.474510 0.474510 0.474510
+Ks 0.330000 0.330000 0.330000
+map_Kd manzana+frente+a+la+ermita+(Cali)/Google_Earth_Snapshot2_2_.jpg
+
+newmtl Google_Earth_Snapshot2_3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.474510 0.474510 0.474510
+Ks 0.330000 0.330000 0.330000
+map_Kd manzana+frente+a+la+ermita+(Cali)/Google_Earth_Snapshot2_3_.jpg
+
+newmtl Google_Earth_Snapshot2_4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.474510 0.474510 0.474510
+Ks 0.330000 0.330000 0.330000
+map_Kd manzana+frente+a+la+ermita+(Cali)/Google_Earth_Snapshot2_4_.jpg
+
+newmtl M_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.517647 0.482353 0.454902
+Ks 0.330000 0.330000 0.330000
+map_Kd manzana+frente+a+la+ermita+(Cali)/M_1.jpg
+
+newmtl Google_Earth_Snapshot2_5_
+Ka 0.000000 0.000000 0.000000
+Kd 0.474510 0.474510 0.474510
+Ks 0.330000 0.330000 0.330000
+map_Kd manzana+frente+a+la+ermita+(Cali)/Google_Earth_Snapshot2_5_.jpg
+
+newmtl Google_Earth_Snapshot2_6_
+Ka 0.000000 0.000000 0.000000
+Kd 0.474510 0.474510 0.474510
+Ks 0.330000 0.330000 0.330000
+map_Kd manzana+frente+a+la+ermita+(Cali)/Google_Earth_Snapshot2_6_.jpg
+
+newmtl Google_Earth_Snapshot2_7_
+Ka 0.000000 0.000000 0.000000
+Kd 0.474510 0.474510 0.474510
+Ks 0.330000 0.330000 0.330000
+map_Kd manzana+frente+a+la+ermita+(Cali)/Google_Earth_Snapshot2_7_.jpg
+
+newmtl Google_Earth_Snapshot2_8_
+Ka 0.000000 0.000000 0.000000
+Kd 0.474510 0.474510 0.474510
+Ks 0.330000 0.330000 0.330000
+map_Kd manzana+frente+a+la+ermita+(Cali)/Google_Earth_Snapshot2_8_.jpg
+
+newmtl Google_Earth_Snapshot2_9_
+Ka 0.000000 0.000000 0.000000
+Kd 0.474510 0.474510 0.474510
+Ks 0.330000 0.330000 0.330000
+map_Kd manzana+frente+a+la+ermita+(Cali)/Google_Earth_Snapshot2_9_.jpg
+
+newmtl Google_Earth_Snapshot2_10_
+Ka 0.000000 0.000000 0.000000
+Kd 0.474510 0.474510 0.474510
+Ks 0.330000 0.330000 0.330000
+map_Kd manzana+frente+a+la+ermita+(Cali)/Google_Earth_Snapshot2_10_.jpg
+

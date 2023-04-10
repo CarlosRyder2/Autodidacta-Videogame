@@ -1,0 +1,27 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl irgjrjgjgj
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.403922 0.407843
+Ks 0.330000 0.330000 0.330000
+map_Kd notaria+12+Cali/irgjrjgjgj.jpg
+
+newmtl M_35
+Ka 0.000000 0.000000 0.000000
+Kd 0.807843 0.811765 0.811765
+Ks 0.330000 0.330000 0.330000
+map_Kd notaria+12+Cali/M_35.jpg
+
+newmtl Google_Earth_Snapshot
+Ka 0.000000 0.000000 0.000000
+Kd 0.431373 0.380392 0.400000
+Ks 0.330000 0.330000 0.330000
+map_Kd notaria+12+Cali/Google_Earth_Snapshot.jpg
+

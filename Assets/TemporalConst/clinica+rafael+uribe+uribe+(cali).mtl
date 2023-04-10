@@ -1,0 +1,75 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Google_Earth_Snapshot1
+Ka 0.000000 0.000000 0.000000
+Kd 0.415686 0.415686 0.415686
+Ks 0.330000 0.330000 0.330000
+map_Kd clinica+rafael+uribe+uribe+(cali)/Google_Earth_Snapshot1.jpg
+
+newmtl cuatro
+Ka 0.000000 0.000000 0.000000
+Kd 0.552941 0.407843 0.356863
+Ks 0.330000 0.330000 0.330000
+map_Kd clinica+rafael+uribe+uribe+(cali)/cuatro.jpg
+
+newmtl cinc
+Ka 0.000000 0.000000 0.000000
+Kd 0.678431 0.564706 0.478431
+Ks 0.330000 0.330000 0.330000
+map_Kd clinica+rafael+uribe+uribe+(cali)/cinc.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl ghtguh
+Ka 0.000000 0.000000 0.000000
+Kd 0.427451 0.419608 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd clinica+rafael+uribe+uribe+(cali)/ghtguh.jpg
+
+newmtl tres
+Ka 0.000000 0.000000 0.000000
+Kd 0.572549 0.525490 0.505882
+Ks 0.330000 0.330000 0.330000
+map_Kd clinica+rafael+uribe+uribe+(cali)/tres.jpg
+
+newmtl tres1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.572549 0.525490 0.505882
+Ks 0.330000 0.330000 0.330000
+map_Kd clinica+rafael+uribe+uribe+(cali)/tres1_.jpg
+
+newmtl Google_Earth_Snapshot1_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.415686 0.415686 0.415686
+Ks 0.330000 0.330000 0.330000
+map_Kd clinica+rafael+uribe+uribe+(cali)/Google_Earth_Snapshot1_1_.jpg
+
+newmtl cuatro1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.552941 0.407843 0.356863
+Ks 0.330000 0.330000 0.330000
+map_Kd clinica+rafael+uribe+uribe+(cali)/cuatro1_.jpg
+
+newmtl cuatro2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.552941 0.407843 0.356863
+Ks 0.330000 0.330000 0.330000
+map_Kd clinica+rafael+uribe+uribe+(cali)/cuatro2_.jpg
+
+newmtl cuatro3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.552941 0.407843 0.356863
+Ks 0.330000 0.330000 0.330000
+map_Kd clinica+rafael+uribe+uribe+(cali)/cuatro3_.jpg
+
+newmtl cuatro4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.552941 0.407843 0.356863
+Ks 0.330000 0.330000 0.330000
+map_Kd clinica+rafael+uribe+uribe+(cali)/cuatro4_.jpg
+

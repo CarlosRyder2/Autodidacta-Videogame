@@ -1,0 +1,51 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl M_30
+Ka 0.000000 0.000000 0.000000
+Kd 0.447059 0.509804 0.541176
+Ks 0.330000 0.330000 0.330000
+map_Kd Catedral+metropolitana+de+san+pedro+apostol+(Cali)/M_30.jpg
+
+newmtl Google_Earth_Snapshot
+Ka 0.000000 0.000000 0.000000
+Kd 0.431373 0.380392 0.400000
+Ks 0.330000 0.330000 0.330000
+map_Kd Catedral+metropolitana+de+san+pedro+apostol+(Cali)/Google_Earth_Snapshot.jpg
+
+newmtl irgjrjgjgj
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.403922 0.407843
+Ks 0.330000 0.330000 0.330000
+map_Kd Catedral+metropolitana+de+san+pedro+apostol+(Cali)/irgjrjgjgj.jpg
+
+newmtl M_31
+Ka 0.000000 0.000000 0.000000
+Kd 0.498039 0.560784 0.611765
+Ks 0.330000 0.330000 0.330000
+map_Kd Catedral+metropolitana+de+san+pedro+apostol+(Cali)/M_31.jpg
+
+newmtl M_32
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.364706 0.333333
+Ks 0.330000 0.330000 0.330000
+map_Kd Catedral+metropolitana+de+san+pedro+apostol+(Cali)/M_32.jpg
+
+newmtl M_90
+Ka 0.000000 0.000000 0.000000
+Kd 0.317647 0.274510 0.250980
+Ks 0.330000 0.330000 0.330000
+map_Kd Catedral+metropolitana+de+san+pedro+apostol+(Cali)/M_90.png
+
+newmtl M_26
+Ka 0.000000 0.000000 0.000000
+Kd 0.827451 0.819608 0.800000
+Ks 0.330000 0.330000 0.330000
+map_Kd Catedral+metropolitana+de+san+pedro+apostol+(Cali)/M_26.jpg
+
